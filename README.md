@@ -1,6 +1,12 @@
 <h1 align="center">Hola 👋, Me llamo Arturo Junior Cruz Mallqui</h1>
 <h3 align="center">Apasionado Programador Web , siempre buscando nuevos objetivos.</h3>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Deep+Learning+Developer;ML%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<br>
+
+
 - 🔭 Estudiante de Computación e Informática en búsqueda de oportunidades de prácticas. [Mypet🐶](https://github.com/Arturocruz1/Web_Mypet)
 
 - 🌱 Actualmente estoy aprendiendo **" HTML, CSS, JavaScript y Java, mientras también profundizo en el desarrollo web y móvil. ¡Emocionado/a por expandir mis habilidades y explorar nuevas oportunidades en el fascinante mundo de la programación!"**
