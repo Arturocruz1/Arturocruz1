@@ -32,11 +32,7 @@
 - 📄 Know about my experiences [.](.)
 
 - ⚡ Fun fact **.**
-
 </p>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -44,6 +40,7 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
