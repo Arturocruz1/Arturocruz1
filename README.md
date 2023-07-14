@@ -1,4 +1,10 @@
 <h1 align="center">Hola 👋, Me llamo Arturo Junior Cruz Mallqui</h1>
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+<br>
 <h3 align="center">Apasionado Programador Web , siempre buscando nuevos objetivos.</h3>
 
 <p align="center">
